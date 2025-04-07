@@ -1,5 +1,6 @@
 # ⚡ XSS-0DAY Rapid Assault Platform (XRAP)
 **The Most Advanced XSS Exploitation Platform for Professional Red Teams**  
+> **FREE DEMO**: https://github.com/NoTrac3/XRAP/releases/tag/XRAP-DEMO
 
 # **NOTE**: ``This is a private tool which "currently" requires 0T3 Notrac3 membership and else via purchase!``
 
