@@ -152,3 +152,4 @@ XRAP isn't just a tool—it's a **full-spectrum exploitation platform**.
 Its ability to **mutate, evade, and infiltrate** puts it leagues beyond standard XSS tools.  
 Designed for **elite operators**, XRAP brings **next-gen web exploitation** to the battlefield.
 
+- DEVELOPED BY: m77u1n / MrRuin
