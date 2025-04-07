@@ -2,7 +2,7 @@
 **The Most Advanced XSS Exploitation Platform for Professional Red Teams**  
 > **FREE DEMO**: https://github.com/NoTrac3/XRAP/releases/tag/XRAP-DEMO
 
-# **NOTE**: ``This is a private tool which "currently" requires 0T3 Notrac3 membership and else via purchase!``
+# **NOTE**: ``This is a private tool which "currently" requires 0T3 Notrac3 membership!``
 
 XRAP is not just another payload sender—it's a **comprehensive attack platform** that combines cutting-edge research with **military-grade operational security**.  
 With capabilities far beyond typical XSS tools, XRAP delivers **zero-click exploitation chains** with surgical precision and an **unparalleled WAF bypass rate**.
