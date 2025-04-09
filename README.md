@@ -55,7 +55,8 @@ options:
   --param-hunt          Find hidden parameters (default: False)
   -t THREADS, --threads THREADS
                         Number of threads (default: 10)
-  --exfil EXFIL         Exfiltration domain (default: attacker.com)```
+  --exfil EXFIL         Exfiltration domain (default: attacker.com)
+```
 
 ---
 
