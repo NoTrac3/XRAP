@@ -18,7 +18,7 @@ With capabilities far beyond typical XSS tools, XRAP delivers **zero-click explo
   ▐▌  ▐▛▀▚▖▐▛▀▜▌▐▛▀▘ 
 ▗▞▘▝▚▖▐▌ ▐▌▐▌ ▐▌▐▌   #⚡ xꜱꜱ-0ᴅᴀʏ ʀᴀᴘɪᴅ ᴀꜱꜱᴀᴜʟᴛ ᴘʟᴀᴛꜰᴏʀᴍ ...
 --------------------------------------------------------------------------------
-     ✅ INSTANT HACK if the site has:
+     ✅ INSTANT HACK/DEFACE if the site has:
     - ✔ Misconfigured WAF/CSP
     - ✔ Vulnerable load balancers
     - ✔ Weak input sanitization
