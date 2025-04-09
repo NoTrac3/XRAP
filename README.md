@@ -9,6 +9,54 @@ With capabilities far beyond typical XSS tools, XRAP delivers **zero-click explo
 
 ---
 
+> PREVIEW
+
+```▗▖  ▗▖▗▄▄▖  ▗▄▖ ▗▄▄▖ 
+ ▝▚▞▘ ▐▌ ▐▌▐▌ ▐▌▐▌ ▐▌
+  ▐▌  ▐▛▀▚▖▐▛▀▜▌▐▛▀▘ 
+▗▞▘▝▚▖▐▌ ▐▌▐▌ ▐▌▐▌   #⚡ xꜱꜱ-0ᴅᴀʏ ʀᴀᴘɪᴅ ᴀꜱꜱᴀᴜʟᴛ ᴘʟᴀᴛꜰᴏʀᴍ ...
+--------------------------------------------------------------------------------
+     ✅ INSTANT HACK if the site has:
+    - ✔ Misconfigured WAF/CSP
+    - ✔ Vulnerable load balancers
+    - ✔ Weak input sanitization
+    - ✔ Blind XSS in admin panels
+    - ✔ Unpatched HTTP smuggling flaws
+--------------------------------------------------------------------------------
+  >>> XRAP -- [X/ss.R/apid.A/ssault.P/latform]
+  -  ⚠️ Note: Always get permission before testing!
+--------------------------------------------------------------------------------
+  [] The Most Advanced XSS Exploitation Platform for Professional Red Teams []
+--------------------------------------------------------------------------------
+  === WITH HTTP REQUEST SMUGGLING ===
+  === CSP BYPASS, MEMORY EXPLOITS & TLS SPOOFING ===
+--------------------------------------------------------------------------------
+usage: xrap.py [-h] -u URL [-p PAYLOAD_FILE] [-x PROXY_FILE] [-P PARAM_FILE] [-d DEFACE_FILE] [-S] [-D]
+               [--spread SPREAD] [--param-hunt] [-t THREADS] [--exfil EXFIL]
+
+Advanced XSS Exploitation Tool
+
+options:
+  -h, --help            show this help message and exit
+  -u URL, --url URL     Target URL (default: None)
+  -p PAYLOAD_FILE, --payload-file PAYLOAD_FILE
+                        File containing XSS payloads (default: None)
+  -x PROXY_FILE, --proxy-file PROXY_FILE
+                        File containing proxy servers (default: None)
+  -P PARAM_FILE, --param-file PARAM_FILE
+                        File containing parameters to test (default: None)
+  -d DEFACE_FILE, --deface-file DEFACE_FILE
+                        Custom defacement HTML file (default: None)
+  -S, --smuggle         Enable HTTP request smuggling (default: False)
+  -D, --deface          Enable defacement attempts (default: False)
+  --spread SPREAD       Enable link crawling (with depth) (default: 0)
+  --param-hunt          Find hidden parameters (default: False)
+  -t THREADS, --threads THREADS
+                        Number of threads (default: 10)
+  --exfil EXFIL         Exfiltration domain (default: attacker.com)```
+
+---
+
 ## **🔥 Core Features Overview**
 - **Zero-Click Exploits**: No user interaction required; payloads execute automatically.
 - **97.6% WAF Bypass Rate**: Adaptive protocol manipulation ensures stealth.
