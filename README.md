@@ -77,7 +77,7 @@ ___
   ✔ Vulnerable load balancers
 - ✔ Weak input sanitization
 - ✔ Blind XSS in admin panels
-- ✔ Unpatched HTTP smuggling flaws  I think i missed a few
+- ✔ Unpatched HTTP smuggling flaws  
 
 1️⃣ DOM-Based XSS
    - Example: `site.com/search#<svg onload=alert(1)>`
